@@ -2,7 +2,7 @@ h3 {
   color: #9dabdd;
 }
 
-/*header {
+header {
 	height: 100vh;
 	background-image: url('');
 	display: flex;
@@ -11,8 +11,4 @@ h3 {
 	background-size: cover;
 	justify-content: center;
 	margin-bottom: 30px;
-}*/
-
-header {
-	height: 100%;
 }
