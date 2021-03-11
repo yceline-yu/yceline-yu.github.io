@@ -13,7 +13,7 @@ header {
 	margin-bottom: 30px;
 }
 
-@media (max-width: 872px) {
+@media (max-width: 800px) {
   header .display-1 {
       font-size: 3rem;
   }
