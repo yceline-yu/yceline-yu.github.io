@@ -14,7 +14,7 @@ header {
 }
 
 @media only screen and (min-width: 600px) {
-  header {
+  header .display-1 {
       font-size: 3rem;
   }
 }
