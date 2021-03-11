@@ -1,6 +1,14 @@
 h3 {
   color: #9dabdd;
 }
-.linkbutton {
-  color: #9dabdd;
+
+header {
+	height: 100vh;
+	background-image: url('');
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-size: cover;
+	justify-content: center;
+	margin-bottom: 30px;
 }
