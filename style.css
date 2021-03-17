@@ -19,3 +19,7 @@ header {
       font-size: 3rem;
   }
 }
+
+a {
+  text-decoration: none;
+}
