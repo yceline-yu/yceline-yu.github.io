@@ -23,11 +23,30 @@ header {
   margin-top: 190px;
   margin-left:0px;
 }
+
+.nop {
+  margin: 5%;
+}
 	
 
 @media (max-width: 800px) {
   header .display-1 {
       font-size: 3rem;
+  }
+
+  #wel {
+    margin-top: 100px;
+    margin-left: 0px;
+  }
+
+  .what {
+    margin-top: 100px;
+    margin-left: 0px;
+    height: auto;
+  }
+
+  .nop {
+    margin: 0px;
   }
 }
 
