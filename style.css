@@ -2,14 +2,26 @@ h3 {
   color: #9dabdd;
 }
 
+#landing {
+  margin: 0px;
+}
+
 header {
 	height: 100vh;
+  margin-left: 50px;
 	margin-bottom: 30px;
 	margin-top: 0px;
 }
 
+#wel {
+  margin-top: 250px;
+  margin-left: 180px;
+}
+
 .what {
 	height: 100vh;
+  margin-top: 190px;
+  margin-left:0px;
 }
 	
 
