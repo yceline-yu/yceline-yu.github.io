@@ -42,7 +42,7 @@ height: 100vh;
   .what {
     margin-top: 100px;
     margin-left: 0px;
-    height: auto;
+    height: fit-content;
   }
 
   .nop {
