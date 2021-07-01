@@ -2342,7 +2342,7 @@ input, select, textarea {
 		ul.icons-grid li {
 			display: block;
 			float: left;
-			padding: 3em 0;
+			padding: 3em 1em;
 			width: 50%;
 		}
 
